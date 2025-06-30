@@ -27,7 +27,7 @@ Product = 13.5
 g++ product.cpp -o product
 ./product
 
-🌱 What I Learned
+# 🌱 What I Learned
 
 Taking multiple user inputs with cin
 
